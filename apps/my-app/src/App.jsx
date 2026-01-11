@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <h1>My App</h1>
-      <p>{auth()}</p>
+      <h2>{auth()}</h2>
     </>
   )
 }
